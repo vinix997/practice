@@ -1,4 +1,1 @@
-"# practice" 
-
-
-INI ADALAH DARI MAIN 2
+"# pract"""
